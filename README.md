@@ -6,12 +6,7 @@
 <h1>Hi 👋, I'm Fares Adel</h1>
 <h3>Cyber Security Specialist | Red Team | Offensive Security</h3>
 
-<details>
-<p><strong> <summary> 🧠 Busy hacking & vibing to </summary> </strong></p>
 
-🎧 Music keeps me focused while hunting vulnerabilities  
-
-</details>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FaresAdel&style=flat&color=red&label=PROFILE+VIEWS)
 [![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
