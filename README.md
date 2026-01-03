@@ -29,14 +29,15 @@ Penetration Testing Enthusiast
 - 🎯 Always learning, always breaking (ethically)
 
 ---
-### 🔐 Cyber Security
+### 🤖 Cyber Security & Red Team
 
-![Red Team](https://img.shields.io/badge/Red%20Team-8B0000?style=for-the-badge)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge)
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-222222?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web%20Security-333333?style=for-the-badge)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-444444?style=for-the-badge)
-![Computer Science](https://img.shields.io/badge/Computer%20Science-555555?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-ff69b4?style=for-the-badge)  <!-- وردي / زي الـ AI -->
+![Red Team](https://img.shields.io/badge/Red%20Team-1E90FF?style=for-the-badge)        <!-- أزرق -->
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-8A2BE2?style=for-the-badge) <!-- بنفسجي -->
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-32CD32?style=for-the-badge)      <!-- أخضر -->
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-FF8C00?style=for-the-badge) <!-- برتقالي -->
+![Web Security](https://img.shields.io/badge/Web%20Security-DC143C?style=for-the-badge)             <!-- أحمر -->
+![Computer Science](https://img.shields.io/badge/Computer%20Science-00BFFF?style=for-the-badge)      <!-- أزرق فاتح -->
 
 
 
