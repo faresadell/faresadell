@@ -29,7 +29,7 @@ Penetration Testing Enthusiast
 - 🎯 Always learning, always breaking (ethically)
 
 ---
-### 🤖 Cyber Security & Red Team
+### 🔐 Cyber Security
 
 ![Cyber Security](https://img.shields.io/badge/Cyber%20Security-ff69b4?style=for-the-badge)  <!-- وردي / زي الـ AI -->
 ![Red Team](https://img.shields.io/badge/Red%20Team-1E90FF?style=for-the-badge)        <!-- أزرق -->
