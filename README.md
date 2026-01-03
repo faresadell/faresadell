@@ -5,7 +5,7 @@
 
 <h1>Hi 👋, I'm Fares Adel</h1>
 <h3>Computer Science Student<br>
-Cyber Security & Red Team<br>
+Cyber Security | Red Team<br>
 Penetration Testing Enthusiast
 </h3>
 
