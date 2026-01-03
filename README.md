@@ -9,12 +9,16 @@
 I also enjoy *creative video editing*, bringing ideas to life with attention to detail.  
 Always learning, growing, and taking on new challenges in tech and security</P>
 
-<a href="https://www.linkedin.com/in/fares-adell2007">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://portfolio-three-rosy-b1uqlom7rk.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-black?style=flat"/>
-</a>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-adell2007)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://portfolio-three-rosy-b1uqlom7rk.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18AQc7Pp6i/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fares__adeel)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201031330694)
+
+</div>
+
 </div>
 
 <hr>
