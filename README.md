@@ -5,12 +5,17 @@
 
 <h1>Hi 👋, I'm Fares Adel</h1>
 <h3>Cyber Security Specialist | Red Team | Offensive Security</h3>
+<p>
+Focused on offensive security, penetration testing fundamentals,  
+and building strong technical foundations in networking and Linux.
+</p>
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=FaresAdel&style=flat&color=red&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/Telegram-grey?style=flat&logo=telegram)](https://t.me/YOUR_TELEGRAM)
-
+<a href="https://www.linkedin.com/in/fares-adell2007">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://portfolio-three-rosy-b1uqlom7rk.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=flat"/>
+</a>
 </div>
 
 <hr>
