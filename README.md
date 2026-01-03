@@ -5,8 +5,8 @@
 
 <h1>Hi 👋, I'm Fares Adel</h1>
 <h3>Computer Science Student | Cyber Security | Red Team | Penetration Testing Enthusiast</h3>
-<P>I’m passionate about *Cyber Security and Red Team operations* constantly exploring vulnerabilities and testing systems to improve security.  
-I also enjoy *creative video editing*, bringing ideas to life with attention to detail.  
+<P>I’m passionate about Cyber Security and Red Team operations constantly exploring vulnerabilities and testing systems to improve security.  
+I also enjoy *creative video editing , bringing ideas to life with attention to detail.  
 Always learning, growing, and taking on new challenges in tech and security</P>
 
 <div align="center">
