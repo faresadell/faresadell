@@ -1,68 +1,85 @@
-# Fares Adel
+<div align="center" width="50">
 
-**Cyber Security Specialist | Red Team | Offensive Security**
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Welcome" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
----
+<h1>Hi, I'm Fares Adel</h1>
+<h3>Cyber Security | Red Team | Offensive Security</h3>
+
+<p>
+Focused on offensive security, penetration testing fundamentals,  
+and building strong technical foundations in networking and Linux.
+</p>
+
+<a href="https://www.linkedin.com/in/fares-adell2007">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://portfolio-three-rosy-b1uqlom7rk.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-black?style=flat"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=FaresAdel&style=flat&color=grey&label=PROFILE+VIEWS"/>
+
+</div>
+
+<hr>
 
 ## About Me
 
-I am a Cyber Security enthusiast with a focus on **Red Team / Offensive Security**.  
-I have a strong foundation in **networking, Linux, and web technologies**, with hands-on experience in scripting and backend development.  
-My goal is to continuously improve my penetration testing and vulnerability assessment skills and grow professionally in the cyber security field.
+I am a **Cyber Security enthusiast** with a strong interest in  
+**Red Team and Offensive Security**.
+
+I have hands-on experience with **Linux, networking fundamentals, and web technologies**,  
+along with scripting and backend development.  
+I aim to continuously improve my technical skills and build a solid career in cyber security.
 
 ---
 
-## Technical Skills
-
-### Cyber Security & Networking
-- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)
-- Linux administration & command line
-- Basic web penetration testing concepts
-- Vulnerability assessment fundamentals
-- Secure coding awareness
+## Skills & Technologies
 
 ### Programming & Scripting
-- Python
-- PHP
-- JavaScript
-- Bash scripting
+- Python  
+- PHP  
+- JavaScript  
+- Bash  
 
 ### Web Technologies
-- HTML
-- CSS
-- JavaScript
-- PHP & MySQL
+- HTML  
+- CSS  
+- PHP & MySQL  
 
-### Tools & Platforms
-- Linux (Primary environment)
+### Cyber Security & Systems
+- Linux (daily usage)
+- Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)
+- Web application security basics
+- Vulnerability assessment fundamentals
+- Secure coding concepts
+
+### Tools
 - Git & GitHub
 - MySQL
 - VS Code
+- Linux CLI
 
 ---
 
-## Portfolio & Profiles
+## Red Team Focus Areas
 
-- **Portfolio:**  
-  https://portfolio-three-rosy-b1uqlom7rk.vercel.app/
+- Web Application Penetration Testing (Foundations)
+- Vulnerability Discovery & Analysis
+- Linux Privilege Escalation (Basics)
+- Networking & Protocol Analysis
+- Security Mindset & Threat Awareness
 
-- **LinkedIn:**  
-  https://www.linkedin.com/in/fares-adell2007
-
-- **GitHub:**  
-  https://github.com/FaresAdel
-
----
-
-## Current Focus
-
-- Improving Red Team and offensive security skills
-- Practicing real-world attack scenarios
-- Strengthening Linux, networking, and scripting skills
-- Building security-focused projects
-
----
-
-## Career Objective
-
-Seeking opportunities to grow as a **Cyber Security / Red Team professional**, gain hands-on experience, and contribute to improving system security through ethical hacking and offensive security practices.
+```python
+class FaresAdel:
+    role = "Cyber Security - Red Team"
+    focus = [
+        "Offensive Security",
+        "Web Penetration Testing",
+        "Linux & Networking",
+        "Python & Scripting"
+    ]
+    objective = "Learn • Practice • Secure"
