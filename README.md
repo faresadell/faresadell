@@ -30,25 +30,30 @@ Penetration Testing Enthusiast
 
 ---
 
-### 💻 Programming & Scripting
+### 💻 Programming Languages & Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-### 🌐 Web Technologies
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-### 🐧 Systems & Networking
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Operating%20Systems-007ACC?style=flat](https://img.shields.io/badge/Operating_Systems-007ACC?style=flat)
+![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat)
+![Problem%20Solving-5C2D91?style=flat](https://img.shields.io/badge/Problem_Solving-5C2D91?style=flat)
+![CRUD-0A66C2?style=flat](https://img.shields.io/badge/CRUD-0A66C2?style=flat)
+![Security%2B-FF0000?style=flat](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat)
 
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 
----
+### 🌐 Front-End
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+
+
 
 ## 🛠️ Red Team Focus
 
