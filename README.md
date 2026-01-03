@@ -4,7 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Red Team Workspace"  width="40%"/><br> 
 
 <h1>Hi 👋, I'm Fares Adel</h1>
-<h3>Computer Science Student | Video Editor |Cyber Security & Penetration Testing Enthusiast</h3>
+<h3>Computer Science Student<br>
+  Cyber Security & Red Team<br>
+  Penetration Testing Enthusiast</h3>
 
 
 <a href="https://www.linkedin.com/in/fares-adell2007">
