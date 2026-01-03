@@ -29,6 +29,17 @@ Penetration Testing Enthusiast
 - 🎯 Always learning, always breaking (ethically)
 
 ---
+### 🔐 Cyber Security
+
+![Red Team](https://img.shields.io/badge/Red%20Team-8B0000?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-111111?style=for-the-badge)
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-222222?style=for-the-badge)
+![Web Security](https://img.shields.io/badge/Web%20Security-333333?style=for-the-badge)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-444444?style=for-the-badge)
+![Computer Science](https://img.shields.io/badge/Computer%20Science-555555?style=for-the-badge)
+
+
+
 
 ### 💻 Programming Languages & Skills
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
