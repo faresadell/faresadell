@@ -4,11 +4,8 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Red Team Workspace"  width="40%"/><br> 
 
 <h1>Hi 👋, I'm Fares Adel</h1>
-<h3>Cyber Security Specialist | Red Team | Offensive Security</h3>
-<p>
-Focused on offensive security, penetration testing fundamentals,  
-and building strong technical foundations in networking and Linux.
-</p>
+<h3>Computer Science Student | Video Editor |Cyber Security & Penetration Testing Enthusiast</h3>
+
 
 <a href="https://www.linkedin.com/in/fares-adell2007">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
