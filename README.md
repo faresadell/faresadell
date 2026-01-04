@@ -79,12 +79,3 @@ Always learning, growing, and taking on new challenges in tech and security</P>
 - Networking & Protocol Analysis
 - Secure Coding Awareness
 
-```python
-class FaresAdel:
-    role = "Cyber Security - Red Team"
-    skills = [
-        "Python", "PHP", "MySQL",
-        "HTML", "CSS", "JavaScript",
-        "Linux", "Networking"
-    ]
-    mindset = "Break • Learn • Secure"
