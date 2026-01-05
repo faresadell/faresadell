@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Red Team Workspace"  width="40%"/><br> 
 
 <h1>Hi 👋, I'm Fares Adel</h1>
-<h3>Aspiring Cyber Security & Web Professional | Networking Fundamentals | Ethical Hacking Enthusiast | Video Editor</h3>
+<h3>Aspiring Cyber Security & Web Professional <br> Networking Fundamentals | Ethical Hacking Enthusiast | Video Editor</h3>
 <P>Tech enthusiast with a foundation in networking and cybersecurity concepts.
 Interested in secure web development, penetration testing, and practical learning projects.</P>
 
