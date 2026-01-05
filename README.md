@@ -4,10 +4,9 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Red Team Workspace"  width="40%"/><br> 
 
 <h1>Hi 👋, I'm Fares Adel</h1>
-<h3>Computer Science Student | Cyber Security | Red Team | Penetration Testing Enthusiast</h3>
-<P>I’m passionate about Cyber Security and Red Team operations constantly exploring vulnerabilities and testing systems to improve security.  
-I also enjoy *creative video editing , bringing ideas to life with attention to detail.  
-Always learning, growing, and taking on new challenges in tech and security</P>
+<h3>Aspiring Cyber Security & Web Professional | Networking Fundamentals | Ethical Hacking Enthusiast | Video Editor</h3>
+<P>Tech enthusiast with a foundation in networking and cybersecurity concepts.
+Interested in secure web development, penetration testing, and practical learning projects.</P>
 
 <div align="center">
 
