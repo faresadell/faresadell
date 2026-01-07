@@ -1,7 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Hackers" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Red Team Workspace"  width="40%"/><br> 
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Hackers" width="60%"/>
+</div>
 
 <h1>Hi 👋, I'm Fares Adel</h1>
 <h3>Aspiring Cyber Security & Web Professional <br> Networking Fundamentals | Ethical Hacking Enthusiast | Video Editor</h3>
