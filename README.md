@@ -78,3 +78,10 @@ Interested in secure web development, penetration testing, and practical learnin
 - Networking & Protocol Analysis
 - Secure Coding Awareness
 
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[اسم_المستخدم_هنا]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+
