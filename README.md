@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Hackers" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Red Team Workspace"  width="40%"/><br>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 
 <h1>Hi 👋, I'm Fares Adel</h1>
 <h3>Aspiring Cyber Security & Web Professional <br> Networking Fundamentals | Ethical Hacking Enthusiast | Video Editor</h3>
@@ -77,15 +77,5 @@ Interested in secure web development, penetration testing, and practical learnin
 - Linux Privilege Escalation (Basics)
 - Networking & Protocol Analysis
 - Secure Coding Awareness
-
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faresadell&show_icons=true&theme=tokyonight&hide_border=true" alt="Fares's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faresadell&theme=tokyonight&hide_border=true" alt="Fares's Streak" />
-</p>
 
 
