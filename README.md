@@ -1,81 +1,180 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
 
+# Hi 👋, I'm Fares Adel  
+### Aspiring SOC Analyst | Blue Team | Cyber Security Enthusiast
 
-<h1>Hi 👋, I'm Fares Adel</h1>
-<h3>Aspiring Cyber Security & Web Professional <br> Networking Fundamentals | Ethical Hacking Enthusiast | Video Editor</h3>
-<P>Tech enthusiast with a foundation in networking and cybersecurity concepts.
-Interested in secure web development, penetration testing, and practical learning projects.</P>
+<p>
+Passionate about Security Operations (SOC), log analysis, incident response, and building strong defensive security skills.  
+Focused on practical learning through labs, real-world simulations, and structured roadmaps.
+</p>
+
+🌐 Portfolio: https://portfolio-olxv.vercel.app/
+
+</div>
+
+---
+
+## 🔗 Social & Portfolio
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-olxv.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fares-adell2007)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://my-portfolio-gold-three-94.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/18AQc7Pp6i/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fares__adeel)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201031330694)
 
 </div>
 
-</div>
-
-<hr>
+---
 
 ## 🧠 About Me
 
-- 🔐 Cyber Security enthusiast specialized in **Red Team / Offensive Security**
-- 🕵️‍♂️ Passionate about **penetration testing, exploitation & attack simulation**
-- 🐧 Linux power user & networking fundamentals lover
-- 💻 Strong background in **Web Technologies & Backend**
-- 🎯 Always learning, always breaking (ethically)
+- 🔵 SOC Analyst in progress (Blue Team focus)
+- 🛡️ Interested in Incident Response & Threat Detection
+- 🌐 Strong foundation in Networking & Systems
+- 🐧 Linux & Windows fundamentals learner
+- 📊 Learning SIEM, Logs Analysis & Security Monitoring
+- 🎯 Goal: Become Professional SOC Analyst / DFIR Specialist
 
 ---
-### 🔐 Cyber Security
 
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-ff69b4?style=for-the-badge)  <!-- وردي / زي الـ AI -->
-![Red Team](https://img.shields.io/badge/Red%20Team-1E90FF?style=for-the-badge)        <!-- أزرق -->
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-8A2BE2?style=for-the-badge) <!-- بنفسجي -->
-![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-32CD32?style=for-the-badge)      <!-- أخضر -->
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability%20Assessment-FF8C00?style=for-the-badge) <!-- برتقالي -->
-![Web Security](https://img.shields.io/badge/Web%20Security-DC143C?style=for-the-badge)             <!-- أحمر -->
-![Computer Science](https://img.shields.io/badge/Computer%20Science-00BFFF?style=for-the-badge)      <!-- أزرق فاتح -->
+## 🗺️ SOC Roadmap (Learning Path)
 
+### 🔹 1. Foundations
 
+#### 📌 CompTIA A+
+https://youtube.com/playlist?list=PLH-n8YK76vIiDdOMRB-ylvns-_8Zl1euV
 
+#### 📌 Network+
+https://youtube.com/playlist?list=PLH-n8YK76vIiuIZoWvHL7AvtrDV7hR3He
 
-### 💻 Programming Languages & Skills
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Operating%20Systems-007ACC?style=flat](https://img.shields.io/badge/Operating_Systems-007ACC?style=flat)
-![Networking](https://img.shields.io/badge/Networking-007ACC?style=flat)
-![Problem%20Solving-5C2D91?style=flat](https://img.shields.io/badge/Problem_Solving-5C2D91?style=flat)
-![CRUD-0A66C2?style=flat](https://img.shields.io/badge/CRUD-0A66C2?style=flat)
-![Security%2B-FF0000?style=flat](https://img.shields.io/badge/CompTIA_Security%2B-FF0000?style=flat)
+---
 
+### 🔹 2. Operating Systems
 
-### 🌐 Front-End
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+#### 🪟 Windows Fundamentals
+https://youtube.com/playlist?list=PLroS9tRyoUGrC8GOzQRhyYOfwnub2bvQv
 
+#### 🐧 Linux
+https://youtube.com/playlist?list=PLLlr6jKKdyK1FBi3pLVAmilLvMwWHw-84
 
+#### ⚡ PowerShell
+https://youtu.be/6GPZthxEKU0
 
+---
 
-## 🛠️ Red Team Focus
+### 🔹 3. Web & Programming Basics
 
-- Web Application Penetration Testing
-- Vulnerability Assessment
-- Exploitation Basics
-- Linux Privilege Escalation (Basics)
-- Networking & Protocol Analysis
-- Secure Coding Awareness
+#### 🌐 HTML & CSS
+https://www.youtube.com/watch?v=Pwatx1n1Ws0
 
+#### ⚙️ JavaScript
+https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv
 
+#### 🐘 PHP
+https://www.youtube.com/watch?v=pszZMzI9a7A
+
+#### 🗄️ MySQL
+https://www.youtube.com/watch?v=N-WPYk417yE
+
+#### CRUD Basics
+https://www.youtube.com/watch?v=6hgBFDTTwEk
+
+#### 🔐 Secure Web App
+https://www.youtube.com/playlist?list=PLDoPjvoNmBAypWmEHEy3awR6Ek9sUe5ZS
+
+---
+
+### 🔹 4. Programming
+
+#### 🐍 Python
+https://youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs
+
+---
+
+### 🔹 5. Security Core
+
+#### 🛡️ Security+ (SY0-601)
+https://youtube.com/playlist?list=PLky4bd7_03m8o1NB0j96OsxZs0KcKlgMO
+
+---
+
+## 🧩 SOC Core Concepts
+
+- Cyber Kill Chain  
+- Threat Intelligence Basics  
+- Log Analysis  
+- Incident Response Lifecycle  
+- SIEM Fundamentals  
+- Alert Triage  
+- IOC Analysis  
+
+---
+
+## 🖥️ SIEM (Most Important Skill)
+
+### 📊 IBM QRadar
+https://www.youtube.com/watch?v=lcgWgavJ-vc&list=PL-ychzBA8c71hZHAMIxkbMBXWaZ3EHxlg
+
+### 📌 SIEM Understanding
+https://www.facebook.com/groups/pentesting4arabs/permalink/1788625514927071/
+
+### 📌 SIEM Practice Labs
+https://www.linkedin.com/posts/mohammedalsubayt_cybersecurity-soc-socanalyst-activity-7167081336581693440-HmOd
+
+### 📌 Free SIEM Tools
+https://www.linkedin.com/posts/1elrawy_siem-blueteam-soc-activity-7154797296428146688-opha
+
+---
+
+## 🔍 Incident Response (SOC Investigation)
+
+https://www.youtube.com/playlist?list=PLdUDP-atVHBoDae43tcUZnW1YsjoPJRvP
+
+---
+
+## 🧪 Practice Platforms
+
+- https://tryhackme.com  
+- https://letsdefend.io  
+- https://cyberdefenders.org  
+
+---
+
+## 📚 Advanced Learning
+
+### 🔹 SANS 401
+https://www.linkedin.com/posts/%E2%80%AAamr-khaled%E2%80%AC%E2%80%8F
+
+### 🔹 SANS 504 Incident Handling
+https://www.youtube.com/watch?v=Lh0bmeDQGhA
+
+---
+
+### 🔹 SOC Level 1 Path
+https://tryhackme.com/path/outline/soclevel1
+
+---
+
+## 📌 Cheat Sheets
+
+- Cyber Kill Chain  
+- Blue Team Cheat Sheet  
+- SOC Tasks & Terminology  
+
+---
+
+## 🎯 Goal
+
+> Become a professional SOC Analyst capable of detecting, analyzing, and responding to real-world cyber attacks using SIEM, logs, and threat intelligence.
+
+---
+
+<div align="center">
+
+🔥 Always Learning | Always Analyzing | Always Defending 🔥
+
+</div>
