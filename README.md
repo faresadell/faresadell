@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:00ff88,100:00cfff&height=200&section=header&text=Fares%20Adel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20Blue%20Team%20Defender&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:00ff88,100:00cfff&height=200&section=header&text=Fares%20Adel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOC%20Analyst%20%7C%20SIEM%20%7C%20Incident%20Response%20%7C%20Threat%20Hunting%20%7C%20Blue%20Team&descAlignY=58&descSize=13&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -10,7 +10,9 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faresadel.netlify.app-00FF88?style=flat-square)](https://faresadel.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faresadell)
+<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faresadell)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faresaddell20@gmail.com)
 
 <br/>
 <img src="https://komarev.com/ghpvc/?username=faresadell&label=Profile+Views&color=00ff88&style=flat-square"/>
@@ -23,17 +25,9 @@
 
 ### 👋 About Me
 
-A passionate **SOC Analyst** and **Blue Team Defender** from Egypt 🇪🇬, dedicated to protecting systems through threat detection, incident response, and security monitoring. I founded **Null Pointer Academy (NP Academy)** to deliver free Arabic-language cybersecurity education to the Arab community. Currently building real-world SOC skills through hands-on labs, CTF competitions, and continuous learning — while studying Computer Science at Al-Mansoura University.
+Aspiring SOC Analyst and cybersecurity enthusiast with a strong passion for threat detection, incident response, and security monitoring. Completed hands-on training in log analysis, network monitoring, and SIEM tools to identify and investigate security events. Familiar with networking fundamentals, Windows/Linux environments, and common cyber threats. Continuously developing practical skills in Blue Team operations and eager to contribute to securing digital environments.
 
-<br/>
-
-| | |
-|:--|:--|
-| 🔵 **Role** | SOC Analyst · Blue Team Defender |
-| 🎯 **Focus** | Threat Detection · Incident Response · SIEM |
-| 🏫 **Academy** | Founder & Instructor @ NP Academy |
-| 🎓 **Education** | CS Student — Al-Mansoura University |
-| 📍 **Location** | Egypt 🇪🇬 |
+> 🎓 Studying **Cybersecurity** at Damietta University
 
 <br clear="right"/>
 
@@ -81,11 +75,20 @@ A passionate **SOC Analyst** and **Blue Team Defender** from Egypt 🇪🇬, ded
 
 <div align="center">
 
-`SOC Level 1` &nbsp; `Pre Security Path` &nbsp; `CompTIA CySA+ CS0-003` &nbsp; `CompTIA A+ 220-1101`
-
-`CompTIA Security+` &nbsp; `eCIR Prep` &nbsp; `SOC Fundamental` &nbsp; `Pre-CyberSecurity`
-
-`PHP & MySQL Web Applications` &nbsp; `Computer Networking` &nbsp; `JavaScript` &nbsp; `Linux 101`
+| # | Certification |
+|---|---|
+| 01 | SOC Level 1 |
+| 02 | Pre Security Path |
+| 03 | CompTIA CySA+ CS0-003 |
+| 04 | CompTIA A+ 220-1101 |
+| 05 | CompTIA Security+ |
+| 06 | eCIR Prep |
+| 07 | SOC Fundamental |
+| 08 | Pre-CyberSecurity |
+| 09 | PHP & MySQL Web Applications |
+| 10 | Computer Networking |
+| 11 | JavaScript |
+| 12 | Linux 101 |
 
 </div>
 
@@ -97,8 +100,10 @@ A passionate **SOC Analyst** and **Blue Team Defender** from Egypt 🇪🇬, ded
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/faresadel)
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com)
+<br/>
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-0052CC?style=for-the-badge&logoColor=white)](https://letsdefend.io)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-1B2A35?style=for-the-badge&logoColor=00FF88)](https://cyberdefenders.org)
+<br/>
 [![BlueTeamLabs](https://img.shields.io/badge/Blue_Team_Labs-1A1A2E?style=for-the-badge&logoColor=00FF88)](https://blueteamlabs.online)
 
 </div>
@@ -128,7 +133,13 @@ A passionate **SOC Analyst** and **Blue Team Defender** from Egypt 🇪🇬, ded
 
 <div align="center">
 
-📞 **+20 103 133 0694** &nbsp;|&nbsp; 📧 **faresaddell20@gmail.com**
+📞 &nbsp; **+20 103 133 0694**
+<br/>
+📧 &nbsp; **faresaddell20@gmail.com**
+<br/>
+🔗 &nbsp; [linkedin.com/in/faresadell](https://linkedin.com/in/faresadell)
+<br/>
+🌐 &nbsp; [faresadel.netlify.app](https://faresadel.netlify.app/)
 
 </div>
 
