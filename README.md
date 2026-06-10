@@ -20,13 +20,14 @@
 
 ---
 
-### 👋 &nbsp; About Me
+
 
 <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
 </div>
 
 <br/>
+### 👋 &nbsp; About Me
 
 Aspiring SOC Analyst and cybersecurity enthusiast with a strong passion for threat detection, incident response, and security monitoring. Completed hands-on training in log analysis, network monitoring, and SIEM tools to identify and investigate security events. Familiar with networking fundamentals, Windows/Linux environments, and common cyber threats. Continuously developing practical skills in Blue Team operations and eager to contribute to securing digital environments.
 
