@@ -11,7 +11,6 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faresadel.netlify.app-00FF88?style=flat-square)](https://faresadel.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faresadell)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faresadell)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faresaddell20@gmail.com)
 
 <br/>
 
@@ -133,13 +132,17 @@ Aspiring SOC Analyst and cybersecurity enthusiast with a strong passion for thre
 
 <div align="center">
 
-📞 &nbsp; **+20 103 133 0694**
-<br/>
-📧 &nbsp; **faresaddell20@gmail.com**
-<br/>
-🔗 &nbsp; [linkedin.com/in/faresadell](https://linkedin.com/in/faresadell)
-<br/>
-🌐 &nbsp; [faresadel.netlify.app](https://faresadel.netlify.app/)
+| | |
+|:---:|:---|
+| 🔵 **Role** | SOC Analyst · Blue Team Defender |
+| 🎯 **Focus** | Threat Detection · Incident Response · SIEM |
+| 🏫 **Academy** | Founder & Instructor @ NP Academy |
+| 🎓 **Education** | Cybersecurity — Damietta University |
+| 📍 **Location** | Egypt 🇪🇬 |
+| 📞 **Phone** | +20 103 133 0694 |
+| 📧 **Email** | faresaddell20@gmail.com |
+| 🔗 **LinkedIn** | [linkedin.com/in/faresadell](https://linkedin.com/in/faresadell) |
+| 🌐 **Portfolio** | [faresadel.netlify.app](https://faresadel.netlify.app/) |
 
 </div>
 
