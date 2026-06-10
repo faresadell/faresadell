@@ -10,26 +10,28 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faresadel.netlify.app-00FF88?style=flat-square)](https://faresadel.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faresadell)
-<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faresadell)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faresaddell20@gmail.com)
 
 <br/>
+
 <img src="https://komarev.com/ghpvc/?username=faresadell&label=Profile+Views&color=00ff88&style=flat-square"/>
 
 </div>
 
 ---
 
-<img align="right" width="280" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
-
 ### 👋 About Me
+
+<div align="center">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
+</div>
+
+<br/>
 
 Aspiring SOC Analyst and cybersecurity enthusiast with a strong passion for threat detection, incident response, and security monitoring. Completed hands-on training in log analysis, network monitoring, and SIEM tools to identify and investigate security events. Familiar with networking fundamentals, Windows/Linux environments, and common cyber threats. Continuously developing practical skills in Blue Team operations and eager to contribute to securing digital environments.
 
 > 🎓 Studying **Cybersecurity** at Damietta University
-
-<br clear="right"/>
 
 ---
 
@@ -76,7 +78,7 @@ Aspiring SOC Analyst and cybersecurity enthusiast with a strong passion for thre
 <div align="center">
 
 | # | Certification |
-|---|---|
+|:---:|:---|
 | 01 | SOC Level 1 |
 | 02 | Pre Security Path |
 | 03 | CompTIA CySA+ CS0-003 |
@@ -100,10 +102,8 @@ Aspiring SOC Analyst and cybersecurity enthusiast with a strong passion for thre
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/faresadel)
 [![HackTheBox](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com)
-<br/>
 [![LetsDefend](https://img.shields.io/badge/LetsDefend-0052CC?style=for-the-badge&logoColor=white)](https://letsdefend.io)
 [![CyberDefenders](https://img.shields.io/badge/CyberDefenders-1B2A35?style=for-the-badge&logoColor=00FF88)](https://cyberdefenders.org)
-<br/>
 [![BlueTeamLabs](https://img.shields.io/badge/Blue_Team_Labs-1A1A2E?style=for-the-badge&logoColor=00FF88)](https://blueteamlabs.online)
 
 </div>
