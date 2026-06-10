@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faresadel.netlify.app-00FF88?style=flat-square)](https://faresadel.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00FF88?style=flat-square)](https://faresadel.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faresadell)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faresadell)
 
@@ -20,7 +20,7 @@
 
 ---
 
-### 👋 About Me
+### 👋 &nbsp; About Me
 
 <div align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="250"/>
