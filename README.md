@@ -8,24 +8,32 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faresadel.netlify.app-00FF88?style=flat-square)](https://faresadel.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/faresadell)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faresadell)
+
+<br/>
 <img src="https://komarev.com/ghpvc/?username=faresadell&label=Profile+Views&color=00ff88&style=flat-square"/>
 
 </div>
 
 ---
 
-<img align="right" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 
 ### 👋 About Me
 
-```yaml
-Name     : Fares Adel
-Role     : SOC Analyst | Blue Team Defender
-Focus    : Threat Detection · Incident Response · SIEM
-Academy  : Founder @ Null Pointer Academy (NP Academy)
-Study    : CS Student — Al-Mansoura University
-Location : Egypt 🇪🇬
-```
+A passionate **SOC Analyst** and **Blue Team Defender** from Egypt 🇪🇬, dedicated to protecting systems through threat detection, incident response, and security monitoring. I founded **Null Pointer Academy (NP Academy)** to deliver free Arabic-language cybersecurity education to the Arab community. Currently building real-world SOC skills through hands-on labs, CTF competitions, and continuous learning — while studying Computer Science at Al-Mansoura University.
+
+<br/>
+
+| | |
+|:--|:--|
+| 🔵 **Role** | SOC Analyst · Blue Team Defender |
+| 🎯 **Focus** | Threat Detection · Incident Response · SIEM |
+| 🏫 **Academy** | Founder & Instructor @ NP Academy |
+| 🎓 **Education** | CS Student — Al-Mansoura University |
+| 📍 **Location** | Egypt 🇪🇬 |
 
 <br clear="right"/>
 
@@ -73,18 +81,11 @@ Location : Egypt 🇪🇬
 
 <div align="center">
 
-![SOC Level 1](https://img.shields.io/badge/SOC_Level_1-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Pre Security](https://img.shields.io/badge/Pre_Security_Path-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B_CS0--003-ITU_Online-052FAD?style=for-the-badge&logoColor=white)
-![A+ Core 1](https://img.shields.io/badge/CompTIA_A%2B_220--1101-ITU_Online-052FAD?style=for-the-badge&logoColor=white)
-![Security+](https://img.shields.io/badge/CompTIA_Security%2B-Cursa-009688?style=for-the-badge&logoColor=white)
-![eCIR Prep](https://img.shields.io/badge/eCIR_Prep-NetRiders-CC0000?style=for-the-badge&logoColor=white)
-![SOC Fundamental](https://img.shields.io/badge/SOC_Fundamental-NetRiders-CC0000?style=for-the-badge&logoColor=white)
-![Pre-CyberSecurity](https://img.shields.io/badge/Pre--CyberSecurity-NetRiders-CC0000?style=for-the-badge&logoColor=white)
-![PHP MySQL](https://img.shields.io/badge/PHP_%26_MySQL_Web_Apps-Mahara--Tech_(ITI)-E53935?style=for-the-badge&logoColor=white)
-![Networking](https://img.shields.io/badge/Computer_Networking-Cursa-009688?style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Cursa-009688?style=for-the-badge&logoColor=white)
-![Linux 101](https://img.shields.io/badge/Linux_101-Satr_(Tuwaiq)-00BCD4?style=for-the-badge&logoColor=white)
+`SOC Level 1` &nbsp; `Pre Security Path` &nbsp; `CompTIA CySA+ CS0-003` &nbsp; `CompTIA A+ 220-1101`
+
+`CompTIA Security+` &nbsp; `eCIR Prep` &nbsp; `SOC Fundamental` &nbsp; `Pre-CyberSecurity`
+
+`PHP & MySQL Web Applications` &nbsp; `Computer Networking` &nbsp; `JavaScript` &nbsp; `Linux 101`
 
 </div>
 
@@ -123,13 +124,11 @@ Location : Egypt 🇪🇬
 
 ---
 
-### 🌐 Connect
+### 📬 Contact
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-faresadel.netlify.app-00FF88?style=for-the-badge)](https://faresadel.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faresadell)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faresadell)
+📞 **+20 103 133 0694** &nbsp;|&nbsp; 📧 **faresaddell20@gmail.com**
 
 </div>
 
