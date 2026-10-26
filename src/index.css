@@ -1,0 +1,282 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	  font-family: "Poppins", system-ui, sans-serif;
+	scroll-behavior: smooth;
+	scrollbar-width: thin;
+	scrollbar-color: rgba(99, 102, 241, 0.3) rgba(12, 5, 53, 0.356);
+}
+
+html,
+body {
+	overflow-x: hidden;
+	background: #020617;
+	scroll-behavior: smooth !important;
+	transition: background-color 0.3s ease;
+}
+
+/* ==========================================================================
+   THEME: Light Mode
+   The site is designed dark-first. These rules override the same utility
+   classes when <html> carries the "light" class (toggled via ThemeContext),
+   recoloring surfaces/text/borders without touching every component file.
+   ========================================================================== */
+
+html.light,
+html.light body {
+	background: #eef2f9;
+	color: #0f172a;
+}
+
+/* Page chrome / solid dark panels -> elevated white surfaces */
+html.light .bg-\[\#020617\] {
+	background-color: #ffffff !important;
+}
+
+/* Translucent "glass" surfaces: white-on-dark tints become dark-on-light tints */
+html.light .bg-white\/3 { background-color: rgba(15, 23, 42, 0.03) !important; }
+html.light .bg-white\/4 { background-color: rgba(15, 23, 42, 0.04) !important; }
+html.light .bg-white\/5 { background-color: rgba(15, 23, 42, 0.05) !important; }
+html.light .bg-white\/7 { background-color: rgba(15, 23, 42, 0.06) !important; }
+html.light .bg-white\/8 { background-color: rgba(15, 23, 42, 0.07) !important; }
+html.light .bg-white\/10 { background-color: rgba(15, 23, 42, 0.08) !important; }
+html.light .bg-white\/20 { background-color: rgba(15, 23, 42, 0.12) !important; }
+
+html.light .hover\:bg-white\/4:hover { background-color: rgba(15, 23, 42, 0.05) !important; }
+html.light .hover\:bg-white\/5:hover { background-color: rgba(15, 23, 42, 0.06) !important; }
+html.light .hover\:bg-white\/7:hover { background-color: rgba(15, 23, 42, 0.07) !important; }
+html.light .hover\:bg-white\/10:hover { background-color: rgba(15, 23, 42, 0.09) !important; }
+
+/* A translucent dark accent card (About stats) -> light tint instead */
+html.light .bg-gray-900\/50 { background-color: rgba(15, 23, 42, 0.05) !important; }
+
+/* Borders */
+html.light .border-white\/0 { border-color: transparent !important; }
+html.light .border-white\/8 { border-color: rgba(15, 23, 42, 0.10) !important; }
+html.light .border-white\/10 { border-color: rgba(15, 23, 42, 0.12) !important; }
+html.light .border-white\/12 { border-color: rgba(15, 23, 42, 0.14) !important; }
+html.light .border-white\/15 { border-color: rgba(15, 23, 42, 0.16) !important; }
+html.light .border-white\/18 { border-color: rgba(15, 23, 42, 0.18) !important; }
+html.light .border-white\/20 { border-color: rgba(15, 23, 42, 0.20) !important; }
+html.light .border-white\/40 { border-color: rgba(15, 23, 42, 0.35) !important; }
+
+html.light .hover\:border-white\/8:hover { border-color: rgba(15, 23, 42, 0.10) !important; }
+html.light .hover\:border-white\/10:hover { border-color: rgba(15, 23, 42, 0.14) !important; }
+html.light .hover\:border-white\/18:hover { border-color: rgba(15, 23, 42, 0.18) !important; }
+html.light .hover\:border-white\/20:hover { border-color: rgba(15, 23, 42, 0.22) !important; }
+
+/* Text */
+html.light .text-white { color: #0f172a; }
+html.light .text-gray-100 { color: #1e293b; }
+html.light .text-gray-200 { color: #1e293b; }
+html.light .text-gray-300 { color: #334155; }
+html.light .text-slate-300 { color: #334155; }
+
+html.light .hover\:text-white:hover { color: #0f172a !important; }
+html.light .group:hover .group-hover\:text-white { color: #0f172a !important; }
+html.light .group:hover .group-hover\:text-gray-300 { color: #334155 !important; }
+
+/* Ring / focus states */
+html.light .ring-white\/10 { --tw-ring-color: rgba(15, 23, 42, 0.12) !important; }
+html.light .ring-white\/20 { --tw-ring-color: rgba(15, 23, 42, 0.20) !important; }
+html.light .group:hover .group-hover\:ring-white\/20 { --tw-ring-color: rgba(15, 23, 42, 0.20) !important; }
+html.light .group:hover .group-hover\:border-white\/10 { border-color: rgba(15, 23, 42, 0.14) !important; }
+html.light .group:hover .group-hover\:border-white\/20 { border-color: rgba(15, 23, 42, 0.20) !important; }
+html.light .group:hover .group-hover\:border-white\/40 { border-color: rgba(15, 23, 42, 0.35) !important; }
+
+/* Scrollbar */
+html.light ::-webkit-scrollbar-track {
+	background: rgba(15, 23, 42, 0.05);
+	border: 1px solid rgba(30, 64, 175, 0.15);
+}
+
+/* ==========================================================================
+   Protected "always dark" surfaces
+   A few small components (project detail modal, tech-stack chips) are
+   deliberately dark cards regardless of the site theme. These custom
+   classes bypass the Tailwind utility overrides above on purpose.
+   ========================================================================== */
+.modal-dark-text {
+	color: #ffffff;
+}
+
+.tech-label {
+	color: #cbd5e1;
+	transition: color 0.3s ease;
+}
+.group:hover .tech-label {
+	color: #ffffff;
+}
+
+
+
+@keyframes blob {
+	0%,
+	100% {
+		transform: translateY(0);
+	}
+	50% {
+		transform: translateY(-20px);
+	}
+}
+
+.animate-blob {
+	animation: blob 8s infinite;
+}
+
+.animation-delay-2000 {
+	animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+	animation-delay: 4s;
+}
+
+/* Enhanced Custom Scrollbar Styles */
+::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+	background-color: transparent;
+  }
+  
+  ::-webkit-scrollbar-track {
+	background: rgba(3, 0, 20, 0.4);
+	backdrop-filter: blur(8px);
+	-webkit-backdrop-filter: blur(8px);
+	border: 1px solid rgba(99, 102, 241, 0.1);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+	background: rgba(99, 102, 241, 0.3);
+	backdrop-filter: blur(4px);
+	-webkit-backdrop-filter: blur(4px);
+	border-radius: 20px;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+	box-shadow: 
+	  inset 0 0 20px rgba(168, 85, 247, 0.2),
+	  0 0 10px rgba(99, 102, 241, 0.2);
+	transition: all 0.3s ease;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+	background: rgba(99, 102, 241, 0.5);
+	border: 1px solid rgba(168, 85, 247, 0.3);
+	box-shadow: 
+	  inset 0 0 30px rgba(168, 85, 247, 0.3),
+	  0 0 15px rgba(99, 102, 241, 0.3);
+  }
+  
+  /* When scrollbar is in active/clicked state */
+  ::-webkit-scrollbar-thumb:active {
+	background: rgba(99, 102, 241, 0.6);
+	border: 1px solid rgba(168, 85, 247, 0.4);
+	box-shadow: 
+	  inset 0 0 40px rgba(168, 85, 247, 0.4),
+	  0 0 20px rgba(99, 102, 241, 0.4);
+  }
+  
+  ::-webkit-scrollbar-corner {
+	background: transparent;
+  }
+
+  [data-aos] {
+	will-change: transform, opacity !important;
+  }
+
+
+
+ @keyframes shine {
+  from {
+	     left: -100%;
+  }
+	  to {
+	    left: 200%;
+	   }
+	 }
+	 .animate-shine {
+   animation: shine 1.5s ease-in-out infinite;
+ }
+
+  
+/*   @media (prefers-color-scheme: dark) {
+	::-webkit-scrollbar-track {
+	  background: rgba(3, 0, 20, 0.6);
+	}
+  } */
+
+
+/* 
+  .container {
+	width: 100%;
+	height: 100%;
+  }
+  
+  .main > div {
+	position: absolute;
+	will-change: transform;
+	border-radius: 50%;
+	background: lightcoral;
+	box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+	opacity: 0.6;
+  }
+  
+  .main > div:nth-child(1) {
+	width: 60px;
+	height: 60px;
+  }
+  
+  .main > div:nth-child(2) {
+	width: 125px;
+	height: 125px;
+  }
+  
+  .main > div:nth-child(3) {
+	width: 75px;
+	height: 75px;
+  }
+  
+  .main > div::after {
+	content: '';
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	width: 20px;
+	height: 20px;
+	border-radius: 50%;
+	background: rgba(255, 0, 0, 0.8);
+  }
+  
+  .main > div:nth-child(2)::after {
+	top: 35px;
+	left: 35px;
+	width: 35px;
+	height: 35px;
+  }
+  
+  .main > div:nth-child(3)::after {
+	top: 25px;
+	left: 25px;
+	width: 25px;
+	height: 25px;
+  }
+  
+  .main {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	filter: url('#blob');
+	overflow: hidden;
+	background: transparent;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	cursor: default;
+  } */
